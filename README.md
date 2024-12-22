@@ -1,4 +1,4 @@
-# RCSB Protein Data Analysis - First Run
+# ProteinPair Similarity
 
 This repository contains a Jupyter Notebook designed for the analysis and visualization of protein data sourced from the RCSB Protein Data Bank (PDB). The notebook guides users through fetching, processing, and exploring protein-related data with Python.
 
